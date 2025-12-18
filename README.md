@@ -32,4 +32,4 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/padmapriya-a-byte
-- LinkedIn: (https://www.linkedin.com/in/padmapriya-v-546393353)
+- LinkedIn: https://www.linkedin.com/in/padmapriya-v-546393353
